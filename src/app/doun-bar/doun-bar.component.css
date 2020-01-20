@@ -1,0 +1,31 @@
+.strip{
+  background-color: rgba(9, 47, 129, 0.671);
+    background-image: linear-gradient(rgba(112, 139, 197, 0.671)   ,rgba(9, 47, 129, 0.671));
+}
+
+.text{
+color: whitesmoke;
+font: 13px normal tahoma ;
+}
+.tit{
+  color: whitesmoke;
+  font: 15px bold tahoma;
+}
+.location{
+  display: flex;
+
+  justify-content: space-between;
+  max-width: 340px;
+  
+}
+.he{
+  position:inherit;
+  
+
+right: 0;
+}
+
+.he p{
+
+  text-align: right;
+}
